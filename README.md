@@ -44,7 +44,7 @@ Manage a DevOps project using **Git best practices**.
    pkg install git
 Clone the repo:
 
-git clone https://github.com/username/devops-task4.git
+git clone https://github.com/username/devops-task3.git
 
 Enter the repo folder and run:
 
@@ -62,4 +62,5 @@ Add Git tags to mark versions:
 
 git tag v1.0
 git push origin v1.0
+
 
